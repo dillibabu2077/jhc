@@ -3,8 +3,8 @@ this is my task two
 git is light weight
 git is light weighted
 git not an usual tool
-<<<<<<< HEAD
-git is not easy
-=======
 git easy
->>>>>>> refs/remotes/origin/main
+jai sriram
+jkljlkjflkjsdjo
+
+abcd
